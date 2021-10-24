@@ -45,6 +45,8 @@ str: 8:10 string
 
 ## Referrences
 - https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177
+- https://levelup.gitconnected.com/exploring-go-packages-cobra-fce6c4e331d6
+- https://github.com/spf13/cobra/blob/master/cobra/README.md
 
 ## Debug mode
 - in `launch.json` my configuration is
